@@ -42,7 +42,7 @@ body {
 
 .nav-btn {
   background-color: #000000;
-  color: #fff;
+  color: red;
   text-transform: uppercase;
   padding: 1.2rem 2.5rem;
   border: none;
