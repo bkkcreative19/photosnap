@@ -458,7 +458,7 @@ body {
 }
 .footer-cta svg {
   margin-left: -4rem;
-  margin-right: 3rem;
+  margin-right: -3rem;
 }
 
 .footer-copyright span {
